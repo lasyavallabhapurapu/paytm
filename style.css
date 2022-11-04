@@ -1,0 +1,500 @@
+*{
+	margin: 0%;
+	/*border:1px solid red;*/
+	
+}
+ .navigation {
+ 	display: flex;
+ 	background: white;
+ 	background-color: white;
+ 	justify-content: space-around;
+ 	border: white; 
+}
+.navigation a{
+	text-decoration: none;
+	justify-content: space-around;
+	border:white;
+}
+ .logo{
+ 	margin:0% 4% !important;
+ }	
+ .right{
+ 	width: 20%;
+ 	height: 100%;
+ 	display: flex;
+ 	align-items: center;
+ 	justify-content: center;
+ }	
+ .middle{
+ 	width: 65%;
+ 	height: 100%;
+ 	display: flex;
+ 	align-items: center;
+ 	justify-content: center;
+ }
+ .middle a{
+ 	text-decoration: #00baf2;
+ 	color: white;
+ 	border-radius: 20px;
+}
+ #signin{
+ 	background-color: #00baf2;
+ 	color: white;
+ 	border-radius: 20;
+ 	border:2%;
+ 	margin-left: 8%;
+ }
+ .kyc{
+ 	background-color: #D3D3D3;
+ 	padding-top: 0.2%;
+ 	padding-bottom: 0.2%;
+ 	text-align: center;
+ }
+.sec2{
+	display: flex;
+	justify-content: space-between;
+	padding: 5% 0% 7% 10%;
+}
+.download-app{
+	background-color: black;
+	color: white;
+	font-size: 17px;
+	width: 
+	text-align:center;
+	border-radius:1px solid black; 
+	padding:1.8% 2.3%;
+}
+download.app hover{
+	background-color: white;
+	color:black;
+}
+.sec3{
+	background-color: #3CB9EB;
+	padding:2% 5% 1% 3%;
+	justify-items:space-evenly;
+}
+.sec3 div img{
+	width: 50%;
+}
+.pay img{
+	width: 60%;
+	display:inline;
+}
+.bills{
+	display: flex;
+	justify-content: space-evenly;
+	align-items:space-between;
+		padding: 5% 5% 5% 5%;
+}
+.bills a{
+	text-decoration: none;
+	color: white;
+}
+.sec4{
+	background-color: #1269C7;
+	padding: 2% 5% 1% 3%;
+	justify-items:center; 
+}
+.sec4 div img{
+	width: 50%;
+}
+.book{
+	display: flex;
+	justify-content: space-between;
+	padding: 5% 10% 5% 8%;
+}
+.book a{
+	text-decoration: none;
+	color:white; 
+}
+.sec5{
+	background-color: rgb(239,239,239);
+}
+.sec5{
+	display: flex;
+	justify-content: space-around;
+	padding: 10% 5% 8% 10%;
+}	
+.head{
+	font-family: sons-serif;
+	font-size: 40px;
+	padding-left: 8%;
+	padding-top: 8%;
+}
+.sec5{
+	font-size: 25px;
+	font-family: sans-serif;
+}
+.load{
+	font-size: 25px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.download-app{
+	background-color: black;
+color:white;
+font-size: 17px;
+width:70%;
+text-align: 17px;
+padding: 1.8% 2.3%;
+border-radius: 25px;
+border-radius: 1px solid black;
+}
+.download-app:hover{
+	background-color: white;
+	color:white;
+}
+.sec6{
+	display: flex;
+	justify-content: space-around;
+	padding: 10% 5% 8% 10%;
+}
+.upi{
+	font-size: 25px;
+	font-family: sans-serif;
+}
+.any{
+	font-size: 25px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.download-app{
+	background-color: black;
+	color: white;
+	font-size;
+	width: 70%;
+	text-align: center;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download-app:hover{
+	background-color: white;
+	color:white;
+}
+.sec7{
+	display: flex;
+	justify-content: space-around;
+	padding: 10% 5% 8% 10%;
+}
+.postpaid{
+	font-size: 25px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.paytm{
+	font-size: 25px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.learn{
+	font-family: sans-serif;
+	border:1px solid black;
+	background-color: black;
+	width: 22%;
+	color:white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec8{
+	display: flex;
+	justify-content: space-around;
+	padding: 5% 5% 8% 10%;
+}
+.cash{
+	font-size: 25px;
+	font-family: sans-serif;
+}
+.card{
+	font-size: 25px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.india{
+	font-size: 55px;
+	font-family: sans-serif;
+}
+.great{
+	font-size: 25px;
+	font-family: sans-serif;
+	margin-bottom: 15%;
+}
+.sec9{
+	display: flex;
+	justify-content: space-around;
+	padding: 10% 5% 8% 10%;
+}
+.financial{
+    font-size: 65px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.pay{
+	font-size: 25px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.paytm{
+	font-size: 25px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.learn{
+	font-family: sans-serif;
+	border:1px solid black;
+	background-color: black;
+	width: 22%;
+	color:white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec10{
+    display: flex;
+	justify-content: space-around;
+	padding: 10% 5% 8% 10%;
+}
+.build{
+	font-size: 45px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.invest{
+	font-size: 25px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.learn{
+	font-family: sans-serif;
+	border:1px solid black;
+	background-color: black;
+	width: 22%;
+	color:white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec11{
+    display: flex;
+	justify-content: space-around;
+	padding: 10% 5% 8% 10%;
+}
+.insurance{
+	font-size: 45px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.buying{
+	font-size: 20px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.learn{
+	font-family: sans-serif;
+	border:1px solid black;
+	background-color: black;
+	width: 22%;
+	color:white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec12{
+    display: flex;
+	justify-content: space-around;
+	padding: 10% 5% 8% 10%;
+}
+.loan{
+	font-size: 30px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.offers{
+	font-size: 20px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.learn{
+	font-family: sans-serif;
+	border:1px solid black;
+	background-color: black;
+	width: 22%;
+	color:white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec13{
+    display: flex;
+	justify-content: space-around;
+	padding: 10% 5% 8% 10%;
+}
+.busssiness{
+	font-size: 80px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.accept{
+	font-size: 25px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.grow{
+	font-size: 25px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.learn{
+	font-family: sans-serif;
+	border:1px solid black;
+	background-color: black;
+	width: 22%;
+	color:white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec14{
+	display: flex;
+	justify-content: space-around;
+	padding: 10% 5% 8% 10%;
+}
+.shop{
+	font-size: 35px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.millions{
+	font-size: 20px;
+	margin-bottom: 15%;
+	font-family: sans-serif;
+}
+.learn{
+	font-family: sans-serif;
+	border:1px solid black;
+	background-color: black;
+	width: 22%;
+	color:white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+}
+.sec15{
+	margin-left: 7%;
+}
+.aru{
+	display: flex;
+	background-color: #d3d3d3;
+	justify-content: space-between;
+	padding: 3% 0% 9& 10%;
+	font-size: 25px;
+}
+.alt img{
+	width:90%;
+}
+.download-app{
+	background-color: blue;
+	color: white;
+	font-size:17px;
+	width: 70%;
+	text-align: center;
+	padding: 1.8% 2.3%;
+	border-radius: 25px;
+	border-radius: 1px solid black;
+}
+.download-app:hover{
+ background-color: white;
+ color: white;	
+}
+.alt{
+	display: flex;
+}
+.sec16{
+	padding-top: 4%;
+	padding-left: 4%;
+}
+.sing{
+	display: flex;
+}
+.dance{
+	display: flex;
+	justify-content: space-evenly;
+	align-content: space-between;
+}
+.bull{
+	background-color: #00baf2;
+	border-radius:7%;
+	padding: 1% 1%;
+}
+.ipo{
+	background-color: #00baf2;
+	border-radius: 7%;
+	padding: 1% 1%;
+}
+.efts{
+	background-color: #00baf2;
+	border-radius: 7%;
+	padding: 1% 1%;
+}
+.gold{
+	background-color: #00baf2;
+	border-radius: 7%;
+	padding: 1% 1%;
+}
+.fund{
+	background-color: #00baf2;
+	border-radius: 7%;
+	padding: 1% 1%;
+}
+.sec17{
+	padding-top: 4%;
+	padding-left: 4%;
+}
+.red{
+	display: flex;
+}
+.black{
+	display: flex;
+}
